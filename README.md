@@ -1,16 +1,20 @@
-### Hi there 👋
+<strong><h1 align="center">Hi 👋, I'm Otoniel</h1></strong>
+<h3 align="center">A Back-End Developer From Brazil</h3>
 
-<!--
-**Otoniel2004/Otoniel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Back-End
+- 🌱 I’m currently learning Java
+- 📖 Academic education: Systems for internet (IFSP)
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oton.rocha84@gmail.com)](mailto:oton.rocha84@gmail.com)
+<h3 align="center">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="6%" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="6%" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6%" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%" align="center"/>
+</p>
+          
