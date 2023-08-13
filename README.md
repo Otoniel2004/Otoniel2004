@@ -1,8 +1,8 @@
 <strong><h1 align="center">I'm Otoniel Rocha 👋</h1></strong>
 <h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently developing in Java
-- 🌱 I’m currently learning Java Frameworks
+- 🔭 looking to develop myself professionally
+- 🌱 I’m currently learning Java
 - 📖 Academic education: Systems for internet (IFSP)
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
