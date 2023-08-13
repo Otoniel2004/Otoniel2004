@@ -1,8 +1,8 @@
-<strong><h1 align="center">Hi 👋, I'm Otoniel</h1></strong>
-<h3 align="center">A Back-End Developer From Brazil</h3>
+<strong><h1 align="center">I'm Otoniel Rocha 👋</h1></strong>
+<h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently working with Back-End
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently developing in Java
+- 🌱 I’m currently learning Java Frameworks
 - 📖 Academic education: Systems for internet (IFSP)
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
