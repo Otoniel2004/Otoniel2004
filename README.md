@@ -3,7 +3,7 @@
 
 - 🔭 looking to develop myself professionally
 - 🌱 I’m currently learning Java
-- 📖 Academic education: Systems for internet (IFSP)
+- 📖 Academic education: Web Systems (IFSP)
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oton.rocha84@gmail.com)](mailto:oton.rocha84@gmail.com)
