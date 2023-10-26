@@ -19,4 +19,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="6%" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6%" align="center"/>
 </p>
-          
+
+![Snake animation](https://github.com/Otoniel2004/Otoniel2004/blob/output/github-contribution-grid-snake.svg)
