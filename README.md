@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Spring Framework
 - 📖 Academic education: Web Systems (IFSP)
 - 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oton.rocha84@gmail.com)](mailto:oton.rocha84@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:oton.rocha84@gmail.com)](mailto:oton.rocha84@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5519981474081)](https://wa.me/5519981474081)
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
