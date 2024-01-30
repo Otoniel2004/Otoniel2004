@@ -1,10 +1,10 @@
-<strong><h1 align="center">I'm Otoniel Rocha 👋</h1></strong>
+<strong><h1 align="center">Hi, I'm Otoniel Rocha 👋</h1></strong>
 
-🌐 Back-End Developer | 🚀 Code Enthusiast | 🎓 Graduation: Web Systems
+<h3>🌐 Back-End Developer | 🚀 Code Enthusiast | 🎓 Graduation: Web Systems</h3>
 
 Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
 
-#### 💻 Technologies and Tools
+<h3>💻 Technologies and Tools</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="6%" align="center"/>
@@ -19,11 +19,11 @@ Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on tu
 
 </p>
 
-#### 🌱 Currently Learning
+<h3>🌱 Currently Learning</h3>
 
 - Spring Framework (Java), Django (Python) and Angular (JavaScpript).
 
-#### 📬 Get in Touch
+<h3>📬 Get in Touch</h3>
 
 - Email: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:oton.rocha84@gmail.com)](mailto:oton.rocha84@gmail.com)
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
