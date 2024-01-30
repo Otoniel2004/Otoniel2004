@@ -1,6 +1,6 @@
 <strong><h1 align="center">Hi, I'm Otoniel Rocha 👋</h1></strong>
 
-<h3>🌐 Back-End Developer | 🚀 Code Enthusiast | 🎓 Graduation: Web Systems</h3>
+<h3>🌐 Back-End Developer | 🎓 Graduation: Web Systems | 🧠 2 years of freelance experience</h3>
 
 Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
 
@@ -29,7 +29,8 @@ Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on tu
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/otoniel-rocha-51379b228/)](https://www.linkedin.com/in/otoniel-rocha-51379b228/)
 - WhatsApp: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5519981474081)](https://wa.me/5519981474081)
 
-Feel free to explore my repositories and stay updated on my projects. I'm always up for interesting challenges and opportunities to collaborate on innovative projects.
+Feel free to explore my repositories and stay updated on my projects.
+<br>I am always ready for challenges and new interesting opportunities to collaborate on innovative projects.
 
 Let's code together! 🚀
 
