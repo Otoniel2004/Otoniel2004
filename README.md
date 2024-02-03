@@ -21,7 +21,7 @@ Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on tu
 
 <h3>🌱 Currently Learning</h3>
 
-- Spring Framework (Java), Django (Python) and Angular (JavaScpript).
+- Django (Python) and Angular (JavaScpript).
 
 <h3>📬 Get in Touch</h3>
 
