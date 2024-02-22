@@ -1,8 +1,8 @@
 <strong><h1 align="center">Hi, I'm Otoniel Rocha 👋</h1></strong>
 
-<h3>🌐 Back-End Developer | 🎓 Graduation: Web Systems | 🧠 2 years of freelance experience</h3>
+<h3>🌐 FullStack Developer | 🎓 Graduation: Web Systems | 🧠 2 years of freelance experience</h3>
 
-Welcome to my corner on GitHub! I'm a dedicated back-end developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
+Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
 
 <h3>💻 Technologies and Tools</h3>
 
