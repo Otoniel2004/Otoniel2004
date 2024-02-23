@@ -15,8 +15,6 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="6%" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="6%" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="6%" align="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="6%" align="center"/>
-
 </p>
 
 <h3>🌱 Currently Learning</h3>
