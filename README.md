@@ -13,30 +13,11 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 
 <h4>Our solutions:</h4>
 <p>Complete web development:</p>
-<ul>
-  <li>Responsive and SEO-ptimized websites</li>
-  <li>landing page</li>
-  <li>Customized web systems</li>
-  <li>E-commerce</li>
-</ul>
 <p>Backend development:</p>
-<ul>
-  <li>RESTful APIs</li>
-  <li>Microservices</li>
-  <li>Scalable and secure architectures</li>
-</ul>
 <p>Systems integration:</p>
-<ul>
-  <li>Integration with third-party APIs</li>
-  <li>Process automation</li>
-</ul>
 <p>Technology consultancy:</p>
-<ul>
-  <li>Needs assessment</li>
-  <li>Strategic planning</li>
-  <li>Implementation of solutions</li>
-</ul>
-<p>Current stage:</p>
+
+<h4>Current stage:</h4>
 <p>In development, scheduled for release in the second half of 2024</p>
 
 <h3>💻 Technologies and Tools</h3>
