@@ -6,16 +6,9 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 
 <h3>💼 CEO OT2B</h3>
 <h4>Tecnologia a serviço do seu sucesso!</h4>
-<h4>Mission:</h4>
-<p>To provide innovative and personalized technological solutions for companies of all sizes, driving the growth and competitiveness of our customers.</p>
-<h4>Vision:</h4>
-<p>To be a leading software development company in Brazil, recognized for the excellence of our services, the quality of our products and the satisfaction of our customers.</p>
 
 <h4>Our solutions:</h4>
-<p>Complete web development:</p>
-<p>Backend development:</p>
-<p>Systems integration:</p>
-<p>Technology consultancy:</p>
+<p>Complete web development,Backend development, Systems integration, Technology consultancy</p>
 
 <h4>Current stage:</h4>
 <p>In development, scheduled for release in the second half of 2024</p>
