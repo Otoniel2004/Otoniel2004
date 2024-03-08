@@ -5,7 +5,7 @@
 Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
 
 <h3>💼 CEO OT2B</h3>
-<h4>Tecnologia a serviço do seu sucesso!</h4>
+<h4>Technology at the service of your success!</h4>
 
 <h4>Our solutions:</h4>
 <p>Complete web development,Backend development, Systems integration, Technology consultancy</p>
