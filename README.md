@@ -8,10 +8,7 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 <h4>Technology at the service of your success!</h4>
 
 <h4>Our solutions:</h4>
-<p>Complete web development,Backend development, Systems integration, Technology consultancy</p>
-
-<h4>Current stage:</h4>
-<p>In development, scheduled for release in the second half of 2024</p>
+<p>Complete web development, Backend development and Systems integration</p>
 
 <h3>💻 Technologies and Tools</h3>
 
