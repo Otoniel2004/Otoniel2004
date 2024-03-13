@@ -1,14 +1,8 @@
 <strong><h1 align="center">Hi, I'm Otoniel Rocha 👋</h1></strong>
 
-<h3>🌐 FullStack Developer | 🎓 Graduation: Web Systems | 🧠 2 years of freelance experience</h3>
+<h3>🌐 FullStack Developer | 🎓 Graduation: Web Systems | 💼 CEO OT2B</h3>
 
 Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on turning ideas into functional software. My passion for programming started early, and since then, I've explored various technologies to enhance my skills.
-
-<h3>💼 CEO OT2B</h3>
-<h4>Technology at the service of your success!</h4>
-
-<h4>Our solutions:</h4>
-<p>Complete web development, Backend development and Systems integration</p>
 
 <h3>💻 Technologies and Tools</h3>
 
