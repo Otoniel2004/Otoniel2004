@@ -20,7 +20,7 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 
 <h3>🌱 Currently Learning</h3>
 
-- Django (Python) and Angular (JavaScpript).
+- React (JavaScpript) and Django (Python).
 
 <h3>📬 Get in Touch</h3>
 
