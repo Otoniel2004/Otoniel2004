@@ -21,7 +21,7 @@ Welcome to my corner on GitHub! I'm a dedicated FullStack developer focused on t
 
 <h3>🌱 Currently Learning</h3>
 
-- React (JavaScpript) and Django (Python).
+- Laravel (PHP).
 
 <h3>📬 Get in Touch</h3>
 
